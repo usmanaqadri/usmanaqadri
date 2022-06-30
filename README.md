@@ -1,4 +1,6 @@
-### Hi there 👋
+### Salaam ✌️
+
+I am a full-stack software engineer. While I studied CS in college, much of it was theory, and so I needed to supplement my learning with more practical skills through self-paced courses on Udemy and Scrimba. I enjoy building projects that are of personal, niche interests that I have, which largely deal with Arabic and Urdu poetry. Feel free to check out my projects on my portfolio: https://usman-qadri.herokuapp.com/
 
 <!--
 **usmanaqadri/usmanaqadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
